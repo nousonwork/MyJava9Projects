@@ -1,0 +1,5 @@
+module modules.second {
+	//exports com.nowtech.second;
+	requires com.nowtech.first;
+	requires module.first;
+}

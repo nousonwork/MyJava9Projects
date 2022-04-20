@@ -1,0 +1,3 @@
+module modules.second {
+	exports com.nowtech.second;
+}

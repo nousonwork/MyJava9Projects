@@ -1,0 +1,5 @@
+module module.third {
+	exports com.nowtech.second;
+
+	requires module.first;
+}
